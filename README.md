@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed Zaid</h1>
 <h3 align="center"># Hi there! 👋
 
-I'm Zaid, a passionate frontend developer dedicated to crafting immersive and user-friendly web experiences. With expertise in HTML, CSS, JavaScript, and React.
-🚀 Currently, I'm focused on honing my skills in React and exploring new trends in frontend development to stay ahead of the curve.
+I'm Zaid, a passionate frontend developer dedicated to crafting immersive and user-friendly web experiences.🚀Currently, I'm focused on honing my skills in React and exploring new trends in frontend development to stay ahead of the curve.
 💻 Check out my repositories to see some of my recent projects and contributions.
-Let's connect and collaborate to build amazing web solutions together. Feel free to reach out via my Twitter handle.
-Happy coding! 😊
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mozaid7&label=Profile%20views&color=0e75b6&style=flat" alt="mozaid7" /> </p>
