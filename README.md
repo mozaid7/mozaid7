@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Zaid</h1>
 <h3 align="center">Hi there! 👋
 
-I'm Zaid, a passionate frontend developer, focused on honing my skills in React and exploring new trends in frontend development.Check out my repositories to see some of my recent projects and contributions :atom_symbol: 
+I'm Zaid, a passionate frontend developer, focused on honing my skills in React. Check out my repositories to see some of my recent projects and contributions :atom_symbol: 
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mozaid7&label=Profile%20views&color=0e75b6&style=flat" alt="mozaid7" /> </p>
