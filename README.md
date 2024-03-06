@@ -4,9 +4,6 @@
 I'm Zaid, a passionate frontend developer, focused on honing my skills in React. Check out my repositories to see some of my recent projects and contributions :atom_symbol: 
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mozaid7&label=Profile%20views&color=0e75b6&style=flat" alt="mozaid7" /> </p>
-
-<p align="left"> <a href="https://twitter.com/mozaid_7" target="blank"><img src="https://img.shields.io/twitter/follow/mozaid_7?logo=twitter&style=for-the-badge" alt="mozaid_7" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, REACT**
 
