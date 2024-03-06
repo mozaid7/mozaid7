@@ -9,13 +9,10 @@ I'm Zaid, a passionate frontend developer, focused on honing my skills in React.
 
 - 🌱 I’m currently learning **JavaScript, REACT**
 
-- 👯 I’m looking to collaborate on **Frontend Development Projects**
-
 - 💬 Ask me about **JAVA, CSS, HTML, JavaScript, Python**
 
 - 📫 How to reach me **mohammedzee98@gmail.com**
 
-- ⚡ Fun fact **Great in passing Sarcasm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
