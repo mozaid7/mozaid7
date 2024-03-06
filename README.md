@@ -28,7 +28,6 @@ I'm Zaid, a passionate frontend developer, focused on honing my skills in React.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mozaid7&show_icons=true&locale=en&layout=compact" alt="mozaid7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mozaid7&show_icons=true&locale=en" alt="mozaid7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mozaid7&" alt="mozaid7" /></p>
 
