@@ -4,7 +4,7 @@
 I'm Zaid, a passionate frontend developer, focused on honing my skills in React. Check out my repositories to see some of my recent projects and contributions :atom_symbol: 
 </h3>
 
-<p><img align="center" src="https://images.unsplash.com/photo-1607705703571-c5a8695f18f6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" height="auto" width="200" style="border-radius:50%" /></p>
+<p><img align="center" src="https://images.unsplash.com/photo-1607705703571-c5a8695f18f6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="border-radius:50%" /></p>
 
 
 - 🌱 I’m currently learning **JavaScript, REACT**
