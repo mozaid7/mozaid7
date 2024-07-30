@@ -6,7 +6,7 @@ I'm Zaid, a passionate frontend developer, focused on honing my skills in React.
 
 
 
-- 🌱 I’m currently learning **JavaScript, REACT**
+- 🌱 I’m currently learning **MERN, REACT**
 
 - 💬 Ask me about **JAVA, CSS, HTML, JavaScript, Python**
 
