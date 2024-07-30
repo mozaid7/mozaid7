@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Zaid</h1>
+<h1 align="center">Hi 👋, I'm Zaid</h1>
 <h3 align="center">Hi there! 👋
 
 I'm Zaid, a passionate frontend developer, focused on honing my skills in React. Check out my repositories to see some of my recent projects and contributions :atom_symbol: 
