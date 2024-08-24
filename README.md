@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mozaid_7" target="blank"><img src="https://img.shields.io/twitter/follow/mozaid_7?logo=twitter&style=for-the-badge" alt="mozaid_7" /></a> </p>
 
-- 🌱 I’m currently learning **MERN, REACT, TypeScript**
+- 🌱 I’m currently learning **MERN, Prisma, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mozaid7/Projects-Zaid](https://github.com/mozaid7/Projects-Zaid)
 
