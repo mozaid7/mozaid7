@@ -21,7 +21,6 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/syed-zaid-7b853b24b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/syed-zaid-7b853b24b" height="30" width="40" /></a>
 <a href="https://instagram.com/mozaid_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mozaid_7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mozaid7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mozaid7" height="30" width="40" /></a>
-//<a href="https://www.naukri.com/code360/profile/mozaid)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/c.svg" alt="mozaid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
