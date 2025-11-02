@@ -59,7 +59,6 @@
 - Developed a **location-based web application** using Next.js, MongoDB, and Map APIs, enabling users to find nearby or route-based charging points.  
 - The platform also allows users to locate **hospitals, hotels, and other essential amenities** for convenience.   
 - **Tools used:** Next.js, TypeScript, Tailwind CSS, React, MongoDB, Open Charge, TomTom, and MapBox APIs.  
-- 🔗 [Visit Website](https://chargeway.vercel.app/)
 
 ### 🎧 [AirPods](https://airpods-five.vercel.app/)
 - Smooth animated product website for earplugs.  
