@@ -68,10 +68,10 @@
 
 ## 🏅 Certifications
 
-- [AWS Certified Cloud Developer – Associate (Issued: 15/05/2025)](https://www.credly.com/badges/c2ba5722-607d-4df2-869c-b229e8ba4807/public_url)  
-- [AWS Certified Cloud Practitioner (Issued: 12/01/2025)](https://www.credly.com/badges/3912d798-1970-4b78-9605-a46ac204c1bf/public_url)  
-- [Google Cloud Computing Foundations (Issued: 08/05/2024)](https://www.credly.com/badges/01d814a3-7a65-4a6c-8ff3-781d83a025f5)  
-- [Cyber Security Consulting by PwC (Issued: 02/04/2025)](https://drive.google.com/file/d/1dPFVm5galxjuYtx6mvzhCeSeDmF8T_2m/view)
+- <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="20"/> [**AWS Certified Cloud Developer – Associate** (Issued: 15/05/2025)](https://www.credly.com/badges/c2ba5722-607d-4df2-869c-b229e8ba4807/public_url)  
+- <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="20"/> [**AWS Certified Cloud Practitioner** (Issued: 12/01/2025)](https://www.credly.com/badges/3912d798-1970-4b78-9605-a46ac204c1bf/public_url)  
+- <img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="20"/> [**Google Cloud Computing Foundations** (Issued: 08/05/2024)](https://www.credly.com/badges/01d814a3-7a65-4a6c-8ff3-781d83a025f5)  
+- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-cybersecurity-cyber-security-flaticons-lineal-color-flat-icons.png" width="20"/> [**Cyber Security Consulting by PwC** (Issued: 02/04/2025)](https://drive.google.com/file/d/1dPFVm5galxjuYtx6mvzhCeSeDmF8T_2m/view)
 
 ---
 
@@ -80,6 +80,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mozaid7&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mozaid7&theme=tokyonight" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozaid7&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 <p align="center">
