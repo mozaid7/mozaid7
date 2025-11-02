@@ -1,17 +1,18 @@
+<h1 align="center">Hi, I'm Syed Mohammed Zaid 👋</h1>
 
-# 👋 Hi, I'm **Syed Mohammed Zaid**
-
-🎓 **B.Tech in Computer Science and Engineering** @ JECRC University, Jaipur  
-💻 **Full-Stack Web Developer | Cloud Practitioner | Open Source Enthusiast**  
-🌐 [Portfolio](https://mozaid.vercel.app/) | ✉️ [mohammedzee98@gmail.com](mailto:mohammedzee98@gmail.com)
+<p align="center">
+  🌱 B.Tech CSE Student @ JECRC University (2022–2026) | Full-Stack Developer | AWS Certified Cloud Practitioner  
+  <br>⚡ Building impactful, secure, and modern web solutions using code, creativity, and cloud.
+</p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-I'm a results-driven Computer Science student passionate about **building scalable, secure, and user-friendly applications**.  
-I specialize in **Web Development** and **Cloud Computing**, with a strong focus on performance, security, and clean code.  
-I enjoy solving real-world problems, contributing to open-source, and continuously learning modern tech.
+- 🎓 Pursuing **B.Tech in Computer Science and Engineering** from **JECRC University, Jaipur** (CGPA: 9.2/10)  
+- 💻 Passionate about **Web Development** and **Cloud Computing**  
+- 🚀 Skilled in **Next.js**, **React**, **Node.js**, and **AWS Cloud Services**  
+- 🌟 Always eager to **learn, build, and contribute** to impactful projects  
 
 ---
 
@@ -44,24 +45,24 @@ I enjoy solving real-world problems, contributing to open-source, and continuous
 ## 💼 Projects
 
 ### 🌾 [AgroPact](https://agropact.vercel.app/)
-- Full-stack **agricultural contract marketplace** built using Next.js, TypeScript, and Tailwind CSS.  
-- Implemented secure authentication via **NextAuth** with **Prisma + PostgreSQL**.  
-- Enabled blockchain-like contract creation for seamless crop trading.
+- Full-stack **agricultural contract marketplace** built with Next.js and TypeScript.  
+- Secure authentication via **NextAuth** integrated with **Prisma + PostgreSQL**.  
+- Blockchain-like contract creation for crop trading.
 
 ### 💸 [PayPro](https://github.com/mozaid7/PayPro)
 - A **modern payments platform** for wallet-based money transfers.  
-- Integrated **NextAuth**, **PostgreSQL**, and **Docker** for secure and scalable performance.  
-- Designed responsive UI with **TailwindCSS** and **ShadCN**.
+- Uses **NextAuth**, **PostgreSQL**, and **Docker** for scalable performance.  
+- Responsive UI built with **TailwindCSS** and **ShadCN**.
 
 ### 🎧 [AirPods](https://airpods-five.vercel.app/)
 - Smooth animated product website for earplugs.  
-- Built entirely with **HTML, CSS, and Vanilla JavaScript**.  
-- Focused on engaging and fluid user experience.
+- Built using **HTML, CSS, and Vanilla JavaScript**.  
+- Focused on fluid animations and user experience.
 
 ### ✍️ [Medium Blog](https://medium-six-omega.vercel.app/)
-- Blogging platform supporting user authentication and post creation.  
-- Built with **React, TypeScript, Cloudflare Workers**, and **PostgreSQL**.  
-- Seamless UI designed with **Tailwind CSS**.
+- Blogging platform with authentication and post creation.  
+- Built using **React, TypeScript, and Cloudflare Workers**.  
+- Database powered by **PostgreSQL and Prisma**.
 
 ---
 
@@ -97,4 +98,4 @@ I enjoy solving real-world problems, contributing to open-source, and continuous
 
 ---
 
-⭐ *"Building one solution at a time — with passion, precision, and purpose."*  
+⭐ *"Building one solution at a time — with passion, precision, and purpose."*
